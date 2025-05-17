@@ -10,7 +10,7 @@ nodejs-scalable-chat/
 │   └── index.html         # Frontend chat application
 ├── server.js              # Main application entry point
 ├── package.json           # Project dependencies and scripts
-├── performance-test.js    # Script for load testing
+├── performance_test.js    # Script for load testing
 └── README.md              # This file
 ```
 
