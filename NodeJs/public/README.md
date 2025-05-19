@@ -4,7 +4,7 @@
 
 First, create a project folder structure as follows:
 ```
-chat-app/
+NodeJs/
 ├── server.js            # Main server file
 ├── package.json         # Dependencies configuration
 ├── README.md            # Project documentation
