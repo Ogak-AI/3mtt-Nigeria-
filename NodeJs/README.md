@@ -26,7 +26,7 @@ This application demonstrates Node.js's capabilities for handling real-time, con
 ## Project Structure
 
 ```
-chat-app/
+NodeJs/
 ├── package.json          # Dependencies and scripts
 ├── server.js             # Main server file with clustering
 ├── public/               # Static files served to clients
