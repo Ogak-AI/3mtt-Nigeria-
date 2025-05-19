@@ -18,8 +18,8 @@ NodeJs/
 
 1. Create a new folder for your project and navigate to it:
    ```bash
-   mkdir chat-app
-   cd chat-app
+   mkdir NodeJs
+   cd NodeJs
    ```
 
 2. Initialize the project and install dependencies:
