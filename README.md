@@ -30,7 +30,7 @@ This is a learning project, but feedback and suggestions are welcome! Feel free 
 
 ## Contact
 
-**Your Name** - [your.email@example.com](mailto:finomoogak2002@gmail.com)
+**Your Name** - [Awajiogak Finomo](mailto:finomoogak2002@gmail.com)
 
 **3MTT Cohort:** [FE/23/94343338]
 
