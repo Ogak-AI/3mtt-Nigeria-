@@ -1,5 +1,3 @@
-
-```markdown
 # Express.js REST API
 
 A simple REST API built with Express.js for managing items.
@@ -7,14 +5,14 @@ A simple REST API built with Express.js for managing items.
 ## Setup Instructions
 
 1. Install dependencies:
-```bash
+bash
 npm install
-```
+
 
 2. Start the server:
-```bash
+bash
 npm start
-```
+
 
 3. The API will be available at `http://localhost:3000`
 
