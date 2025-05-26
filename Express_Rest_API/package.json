@@ -1,0 +1,29 @@
+{
+  "name": "express-rest-api-assignment",
+  "version": "1.0.0",
+  "description": "Simple REST API with Express.js - CRUD operations for items management",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Run manual tests with curl or Postman\" && exit 0"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "nodejs",
+    "crud",
+    "assignment"
+  ],
+  "author": "Student",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
