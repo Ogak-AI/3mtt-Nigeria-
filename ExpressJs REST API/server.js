@@ -1,3 +1,4 @@
+// server.js
 const express = require('express');
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -37,7 +38,7 @@ const findItemById = (id) => {
   return items.find(item => item.id === numId);
 };
 
-// Root route
+// Root route - Returns "Hello, World!" message
 app.get('/', (req, res) => {
   res.json({ 
     message: 'Hello, World!',
